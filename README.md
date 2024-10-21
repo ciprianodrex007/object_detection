@@ -1,4 +1,4 @@
-# ar_test
+# ar_test or object detection
 
 A new Flutter project.
 
